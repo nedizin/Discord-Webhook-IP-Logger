@@ -39,6 +39,7 @@ NOTE: You can use this in every page if you make a it a external page and requir
         curl_setopt( $ch, CURLOPT_FOLLOWLOCATION, 1);
         curl_setopt( $ch, CURLOPT_HEADER, 0);
         curl_setopt( $ch, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt( $ch, CURLOPT_HTTPHEADER, array('Content-type: application/json'));
 
         $response = curl_exec( $ch );
 
