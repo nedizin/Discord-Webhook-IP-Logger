@@ -13,6 +13,10 @@ Step 2: Put in the field of `$webhookurl = "";` with https://discordapp.com/api/
 Version: v1
 <br>Information: I will be updating this for better use in the future.
 
+Version: v2
+<br>Updated, works again.
+
+
 # Developer
 I, ᴮᵉᵗᵗᵉʳ ᴼᶠᶠ ᴳᵒⁿᵉ#0869, am the original creator of this IP Logger-Discord Webhook,
 Please don't try to take credit for my coding, please keep the copyright header intact,
